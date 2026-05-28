@@ -4,8 +4,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-
-
 class Feature_Engineering:
     
     def __init__(self, ruta):
